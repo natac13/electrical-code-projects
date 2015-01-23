@@ -9,3 +9,5 @@ the text file option was the first thing that came to mind
 With that being said the .py files need to be run with the .txt,
 on the command line
 
+I thought I had was to add in all the code rule aabove their functions
+

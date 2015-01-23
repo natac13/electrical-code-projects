@@ -1,0 +1,15 @@
+parking_stalls = 15
+restricted = yes
+class_demensions = 3300
+outside_demensions = 5000
+range = 64000
+dryer = 12000
+water_tanks = 32000
+freezer = 4500
+dish = 4800
+heat = 80000
+voltage = 208
+phase = 3
+parallel = 4
+equipment = 80%
+wiring_method = conduit

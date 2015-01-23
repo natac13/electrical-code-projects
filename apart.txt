@@ -1,0 +1,7 @@
+area = 50
+range = 10000
+heat = 6000
+extra_load = 4500
+ac = 1700
+suite_voltage = 208
+suite_phase = 1
